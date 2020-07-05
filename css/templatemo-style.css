@@ -1,10 +1,3 @@
-/*
-
-Stimulus Template
-
-http://www.templatemo.com/tm-498-stimulus
-
-*/
 
 body {
 	background: #ffffff;
@@ -363,7 +356,7 @@ a:hover, a:active, a:focus {
   background-position: 50% 50%;
   width: 100%;
   height: 100vh;
- 
+  border-radius: 50%;
 }
 
 
@@ -421,9 +414,9 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 #service {
-  background: #f1e2d7;
+  background: #f1e2d7;/*change this in github*/
 }
-
+/*#E9724C;          E3AE57   */
 #service p {
   font-size: 18px;
   line-height: 30px;
